@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1612100927 source:c:\users\emirh\documents\dokümanlar\belgelerim\c++\train_station\main.cpp
+	<iostream>
+	<TicketClassifier.h>
+
+1612037115 source:c:\users\emirh\documents\dokümanlar\belgelerim\c++\train_station\src\city.cpp
+	"City.h"
+
+1612041693 c:\users\emirh\documents\dokümanlar\belgelerim\c++\train_station\include\city.h
+	<bits/stdc++.h>
+	<Passenger.h>
+
+1612037657 source:c:\users\emirh\documents\dokümanlar\belgelerim\c++\train_station\src\passenger.cpp
+	"Passenger.h"
+
+1612037670 c:\users\emirh\documents\dokümanlar\belgelerim\c++\train_station\include\passenger.h
+	<string>
+
+1612041722 source:c:\users\emirh\documents\dokümanlar\belgelerim\c++\train_station\src\ankara.cpp
+	"Ankara.h"
+
+1612041718 c:\users\emirh\documents\dokümanlar\belgelerim\c++\train_station\include\ankara.h
+	<City.h>
+
+1612041737 source:c:\users\emirh\documents\dokümanlar\belgelerim\c++\train_station\src\istanbul.cpp
+	"Istanbul.h"
+
+1612041764 c:\users\emirh\documents\dokümanlar\belgelerim\c++\train_station\include\istanbul.h
+	<City.h>
+
+1612041747 source:c:\users\emirh\documents\dokümanlar\belgelerim\c++\train_station\src\eskisehir.cpp
+	"Eskisehir.h"
+
+1612041765 c:\users\emirh\documents\dokümanlar\belgelerim\c++\train_station\include\eskisehir.h
+	<City.h>
+
+1612041258 source:c:\users\emirh\documents\dokümanlar\belgelerim\c++\train_station\src\trainfactory.cpp
+	"TrainFactory.h"
+	<Ankara.h>
+	<Istanbul.h>
+	<Eskisehir.h>
+
+1612113059 c:\users\emirh\documents\dokümanlar\belgelerim\c++\train_station\include\trainfactory.h
+	<City.h>
+
+1612099792 c:\users\emirh\documents\dokümanlar\belgelerim\c++\train_station\include\ticketclassifier.h
+	<City.h>
+	<Passenger.h>
+	<TrainFactory.h>
+	<bits/stdc++.h>
+	<fstream>
+	<cctype>
+	<algorithm>
+	<cstring>
+
+1612100766 source:c:\users\emirh\documents\dokümanlar\belgelerim\c++\train_station\src\ticketclassifier.cpp
+	"TicketClassifier.h"
+
